@@ -1,0 +1,5 @@
+Credentials cache: API:F76DCF0D-3109-483E-939C-F2BFF7134001
+        Principal: anespoux@42.FR
+
+  Issued                Expires               Principal
+Aug 28 00:14:58 2018  Sep  4 00:14:48 2018  krbtgt/42.FR@42.FR
